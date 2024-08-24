@@ -1,0 +1,22 @@
+[
+  {
+    "task": "buyguitar",
+    "done": true
+  },
+  {
+    "task": "buymilk",
+    "done": false
+  },
+  {
+    "task": "buyeggs",
+    "done": false
+  },
+  {
+    "task": "buy a car god damn it",
+    "done": false
+  },
+  {
+    "task": "rmor",
+    "done": false
+  }
+]
