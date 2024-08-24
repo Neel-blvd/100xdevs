@@ -1,3 +1,6 @@
 [
-  
+  {
+    "task": "randomtask",
+    "done": false
+  }
 ]
