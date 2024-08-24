@@ -1,6 +1,1 @@
-This ensures that anyone else using your project will also install commander when they run npm install.
-
-Why This Happens
-When you require a module that isn’t installed, Node.js throws a MODULE_NOT_FOUND error.
-Installing the missing module resolves this by making the module available to your project.
-Now, your script should work as expected, and you can use your CLI tool to count lines in a file!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quam est, posuere a ex ac, tempus iaculis erat. Donec eget pretium risus. Sed ac lectus vestibulum, elementum felis ut, fringilla arcu. Suspendisse mattis sollicitudin diam, vel sollicitudin augue sodales eget. Proin facilisis eleifend finibus. Fusce maximus eu enim a malesuada. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
